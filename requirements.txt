@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+torch
+streamlit
+google-generativeai
+matplotlib
+seaborn
+ipykernel
+statsmodels
+python-dotenv
