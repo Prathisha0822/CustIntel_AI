@@ -27,7 +27,7 @@ python src/dl_model.py
 streamlit run app.py
 
 *Customer-Dashboard*
-<img width="1903" height="1017" alt="image" src="https://github.com/user-attachments/assets/5695d459-0760-4913-9e40-64e3b93e3cc4" />
+<img width="1910" height="994" alt="image" src="https://github.com/user-attachments/assets/6311b3fd-2f98-4de6-a67b-26690d8a2182" />
 
 **Chrun & LTV Prediction System**
 <img width="1540" height="876" alt="image" src="https://github.com/user-attachments/assets/b0c3d96a-d2b9-4945-93cb-adbfe2a34d27" />
@@ -37,6 +37,9 @@ streamlit run app.py
 
 **Chadbot**
 <img width="1533" height="996" alt="image" src="https://github.com/user-attachments/assets/4eab0ed0-e7aa-4afd-acd7-13dd62ce6e7a" />
+
+**Sales Anlysis**
+<img width="1521" height="822" alt="image" src="https://github.com/user-attachments/assets/4fb2bd07-47f1-4802-920e-13c927b61a77" />
 
 
 
